@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A type helper to match the user's noUncheckedIndexedAccess setting",
   "main": "index.js",
+  "types": "index.ts",
   "scripts": {},
   "repository": {
     "type": "git",
