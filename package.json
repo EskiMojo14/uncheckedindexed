@@ -1,0 +1,24 @@
+{
+  "name": "uncheckedindexed",
+  "version": "0.0.1",
+  "description": "A type helper to match the user's noUncheckedIndexedAccess setting",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EskiMojo14/uncheckedindexed.git"
+  },
+  "keywords": [
+    "typescript",
+    "noUncheckedIndexedAccess"
+  ],
+  "author": "eskimojo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EskiMojo14/uncheckedindexed/issues"
+  },
+  "homepage": "https://github.com/EskiMojo14/uncheckedindexed#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
