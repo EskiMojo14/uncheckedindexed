@@ -5,6 +5,10 @@
   "main": "index.js",
   "types": "index.ts",
   "scripts": {},
+  "files": [
+    "index.ts",
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EskiMojo14/uncheckedindexed.git"
