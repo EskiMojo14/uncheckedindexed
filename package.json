@@ -1,6 +1,6 @@
 {
   "name": "uncheckedindexed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A type helper to match the user's noUncheckedIndexedAccess setting",
   "main": "index.js",
   "types": "index.ts",
